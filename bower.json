@@ -1,0 +1,21 @@
+{
+  "name": "GroupChat",
+  "version": "0.0.0",
+  "homepage": "https://github.com/puliyadivinod/GroupChat",
+  "authors": [
+    "Pavan Patil <pavan.patil@dinerosoftware.com>"
+  ],
+  "description": "Group Chat",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.4.2"
+  }
+}
