@@ -1,0 +1,9 @@
+{
+  "name": "GroupChat",
+  "version": "0.0.1",
+  "description": "Group Chat Polymer and node.js based",
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.3.5"
+  }
+}
